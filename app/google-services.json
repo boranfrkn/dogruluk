@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "170218477404",
+    "firebase_url": "https://truth-or-dare-9bd31.firebaseio.com",
+    "project_id": "truth-or-dare-9bd31",
+    "storage_bucket": "truth-or-dare-9bd31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170218477404:android:e2b71c4015791bb19c1399",
+        "android_client_info": {
+          "package_name": "com.furkanboran.dogrulukmucesaretlikmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170218477404-3ebcsiie405g9ln2i03l2jaktgf7latp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.furkanboran.dogrulukmucesaretlikmi",
+            "certificate_hash": "ea1c1ac8be742baf8ada658ef92e7402f0c982a6"
+          }
+        },
+        {
+          "client_id": "170218477404-8muu16r0tecisv9namubs3i5pmv5b3lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq-v04lTXYhgXI9t7i6S1RU_0IrYo9ykA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170218477404-8muu16r0tecisv9namubs3i5pmv5b3lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
